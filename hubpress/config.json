@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "kvignos",
-    "repositoryName": "kvignos.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"kvignos","repositoryName":"kvignos.github.io","branch":"master"},"site":{"title":"Kathleen Vignos","description":"I'm passionate about managing development teams for growth and retention. Tinkering and debugging is my kind of fun. I love what I do.","postsPerPage":"10","url":"https://kvignos.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//kvignos.github.io/themes/Casper"}}
