@@ -1,0 +1,6 @@
+= My Test Post
+:published_at: 2016-10-18
+
+This is a test post
+
+
