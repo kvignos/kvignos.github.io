@@ -1,5 +1,5 @@
 = My Test Post
 
-This is a test post
+Content
 
-Line 2 is *bold*
+
